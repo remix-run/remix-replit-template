@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@remix-run/node": "^2.17.4",
-    "@remix-run/react": "^1.15.0",
+    "@remix-run/react": "^2.17.4",
     "@remix-run/serve": "^2.17.4",
     "isbot": "^3.6.8",
     "react": "^18.2.0",
